@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Jose Jaljuria
+# 👋 ¡Hola! Soy José Aljuria
 
 Soy un entusiasta de la tecnología con una pasión por el código limpio. Me encanta sumergirme en el mundo del desarrollo web, especialmente con tecnologías basadas en JavaScript, donde disfruto construyendo soluciones creativas y eficientes.
 
