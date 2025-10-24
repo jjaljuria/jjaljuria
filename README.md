@@ -10,8 +10,8 @@ Desde que descubrí el poder del código, me he dedicado a explorar y dominar la
 
 Cuando no estoy inmerso en el código, me encontrarás:
 
-- 📚 **Leyendo:** Siempre en busca de nuevas historias y conocimientos.
-- 🎮 **Jugando Videojuegos:** Explorando mundos virtuales y desafiando mis habilidades.
+- 📚 **Leyendo:** Siempre en busca de nuevas historias y conocimientos. 📖 Me encanta la saga Percy Jackson de Rick Riordan y Starship Troopers de Robert A. Heinlein.
+- 🎮 **Jugando Videojuegos:** Explorando mundos virtuales y desafiando mis habilidades sobre todo juegos retro 👾.
 - 📺 **Viendo Animación:** Disfrutando de la creatividad y la narrativa.
 
 ## 🛠️ Habilidades Clave
